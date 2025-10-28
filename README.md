@@ -4,4 +4,4 @@ Data Cleaning
 ### Firstly, we removed the duplicates to ensure the accuracy of the data.
 ### Removing extra spaces using the Trim()
 ### Formatting the data using the Proper()
-## Fixing the dates and currency
+### Fixing the dates and currency
