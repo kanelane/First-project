@@ -1,6 +1,6 @@
 # First-project
 Data Cleaning
-## Data cleaning project using excel.
+## Data cleaning project using Excel.
 ### Firstly, we removed the duplicates to ensure the accuracy of the data.
 ### Removing extra spaces using the Trim()
 ### Formatting the data using the Proper()
